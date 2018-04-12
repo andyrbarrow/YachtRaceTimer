@@ -30,3 +30,4 @@ Next Steps and Ideas:
 - Use wifi or bluetooth to display countdown and other information on a smartphone or tablet
 - Provide a wireless time signal to a remote recording device that could be used to record finish times. This would require knowing real time instead of just knowing time from start, which wouldn't be a bad thing, but would require some sort of RTC functionality.
 - Integrate the entire package, including horns, into a package that is "suitcase portable"
+- Provide actual voice alerts instead of just beeps
