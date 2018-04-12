@@ -1,7 +1,7 @@
 # YachtRaceTimer
 A countdown timer for ESP32 using the Arduino IDE
 
-This is a countdown timer for ESP32, specifically the TTGO ESP development board which includes an OLED display and has a built-in battery and charging circuit. The board is available from Aliexpress here https://www.aliexpress.com/item/TTGO-WiFi-Bluetooth-Battery-ESP32-0-96-inch-OLED-development-tool/32827899155.html. I'm sure it is available elsewhere. This particluar timer has been done for a number of different Arduino-compatible platforms, and has gone through a few iterations in display, from LEDs, to a 4 digit display, to now an OLED display. Using the development board reduced the hardware count substantially, as batteries, charging, and display are integrated on the board. It should be easy to port to another ESP or Arduino platform.
+This is a countdown timer for ESP32, specifically the TTGO ESP development board which includes an OLED display and has a built-in battery and charging circuit. The board is available from Aliexpress here https://www.aliexpress.com/item/TTGO-WiFi-Bluetooth-Battery-ESP32-0-96-inch-OLED-development-tool/32827899155.html. I'm sure it is available elsewhere. This particular timer has been done for a number of different Arduino-compatible platforms, and has gone through a few iterations in display, from LEDs, to a 4 digit display, to now an OLED display. Using the development board reduced the hardware count substantially, as batteries, charging, and display are integrated on the board. It should be easy to port to another ESP or Arduino platform.
 
 Hardware needed for this project are:
 - TTGO WiFi & Bluetooth Battery ESP32 Rev1 0.96 inch OLED development tool
