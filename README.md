@@ -24,3 +24,9 @@ The timer uses the amplifier and speaker to alert the deck crew of an upcoming f
 
 This sketch requires Nick Gammon's Switch Manager, which can be downloaded from:
 http://gammon.com.au/Arduino/SwitchManager.zip. Install this in your Arduino IDE using Library Manager/Install from Zip
+
+Next Steps and Ideas:
+- Use the bluetooth connectivity to provide a means to send the beeps to an wireless bluetooth speaker or bluetooth enabled stereo
+- Use wifi or bluetooth to display countdown and other information on a smartphone or tablet
+- Provide a wireless time signal to a remote recording device that could be used to record finish times
+- Integrate the entire package, including horns, into a package that is "suitcase portable"
