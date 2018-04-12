@@ -21,3 +21,6 @@ This system is specifically designed to accomodate three countdown modes, consis
 On the first two modes, the timer will count up after the start. This is particularly useful if you have an OCS and you need to count 3 minutes after the OCS flag, or if you want to know the time to first mark, total time of the race, etc.
 
 The timer uses the amplifier and speaker to alert the deck crew of an upcoming flag change. At 50, 40, 30, and 20 seconds to the flag change, a long beep is sounded in the speaker. At 15-11 seconds, a single short beep is heard, 10-6 two short beeps and at 5-1 three short beeps are heard. At the flag, the relay is activated to sound the horn. The next flag requirement is displayed on the OLED, as is the countdown to the flag.
+
+This sketch requires Nick Gammon's Switch Manager, which can be downloaded from:
+http://gammon.com.au/Arduino/SwitchManager.zip. Install this in your Arduino IDE using Library Manager/Install from Zip
