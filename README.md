@@ -16,7 +16,7 @@ It is assumed that this system would replace a single pushbutton normally used w
 
 This system is specifically designed to accomodate three countdown modes, consistent with normal sailboat race operations:
 - 6 minute timer (Horns for AP Down, Class Flag Up, Preperatory Flag Up, Preparatory Flag Down, and Class Flag Down/Start)
-- 5 minute timer (Horns for Class Flag Up, Preperatory Flag Up, Preparatory Flag Down, and Class Flag Down/Start)
+- 5 minute timer (Horns for Class Flag Up, Preparatory Flag Up, Preparatory Flag Down, and Class Flag Down/Start)
 - 5 minute repeating (Same as above, but the sequence continues until the timer is reset)
 On the first two modes, the timer will count up after the start. This is particularly useful if you have an OCS and you need to count 3 minutes after the OCS flag, or if you want to know the time to first mark, total time of the race, etc.
 
